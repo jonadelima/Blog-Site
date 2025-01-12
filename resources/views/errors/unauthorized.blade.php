@@ -74,8 +74,8 @@
     <div class="container">
 
         <img src="{{ asset('images/bayot.jpg')}}" alt="Funny Picture">
-        <h1>HUHUHUHU BAWAL, KISS SA</h1>
-        <p>aw dili ka okay!!!</p>
+        <h1>CHEEEEEEEEE</h1>
+        <p>ayaw!</p>
         <a href="{{ url('/home') }}" class="btn">Back to Home Page</a>
     </div>
 
